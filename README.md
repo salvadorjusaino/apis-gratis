@@ -17,6 +17,25 @@ Más de 800 API gratuitas para desarrolladores.\
 Consolas de documentación y pruebas para más de 1400 API públicas.\
 🔥 https://any-api.com/
 
+More...\
+15 Public APIs for your front-end side project:
+
+🌤️ OpenWeatherMap API
+👩 Genderize .io
+🍔 Open food facts
+💬 Slack API
+💰 PayPal API
+🚀 NASA API
+🐙 GitHub API
+💳 Stripe API
+🤖 Reddit API
+📱 Twilio API
+👕 Shopify API
+📂 OneDrive API
+📦 Dropbox API
+🦠 VirusTotal API
+📝 Trello API
 
 
 ![gif](https://i.ibb.co/MSHBx1H/GDOm-Dd-ak-AAVo1d.gif)
+
