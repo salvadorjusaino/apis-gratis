@@ -34,5 +34,5 @@ Más APIs públicas...
 📝 Trello API
 
 
-![gif](https://github.com/salvadorjusaino/public-apis/AAVo1d.gif)
+![gif](https://github.com/salvadorjusaino/public-apis/blob/main/AAVo1d.gif)
 
